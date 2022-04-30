@@ -1,0 +1,171 @@
+.h
+{
+    color: gray;
+
+}
+
+.span
+{
+    color:dodgerblue;
+}
+
+.img
+{
+    width: 140px;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.div
+{
+    border: 1px solid lightgray;
+    padding-right: 25px;
+    height: 95%;
+    padding-bottom: 25px;
+    background-color:white;
+    border-radius: 15px;
+    
+
+}
+
+.font
+{
+   font-size: 25px;
+}
+
+.bg
+{
+    background: url(./img/background-container.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.white
+{
+   background-color: white;
+   
+}
+
+.img-media-contact
+{
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+
+.inline{
+    display: inline;
+}
+
+.footer
+{
+    background-color: rgb(224, 224, 224);
+    
+}
+
+.enterprise-footer
+{
+    width: 250px;
+    height: 100px;
+    
+}
+
+.icons
+{
+    width: 25px;
+    height: 25px;
+}
+
+.enterprise-header
+{
+    width: 100px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+}
+
+.btn-login
+{
+    margin-left: 150px;
+}
+
+.press-img
+{
+    width: 200px;
+    height: 220px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.div-press
+{
+    border: 1px solid lightgray;
+    padding-right: 25px;
+    height: 95%;
+    padding-bottom: 35px;
+    background-color:white;
+    border-radius: 15px;
+}
+
+.img-byo
+{
+    width: 90px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.press-img-two
+{
+    width: 200px;
+    height: 220px;
+    margin-left: 20px;
+    margin-top: 35px;
+    margin-right: 5px;
+}
+
+.div-byo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#my-popup
+{
+	Width: 600px;
+	Height: 400px;
+	Background: gray;
+	Box-sizing: border-box; /* for inside padding */
+	Padding: 10px;
+
+	/* for center */
+	Position:absolute;
+	top:50%;
+	left:50%;
+	Transform: translate(-50%,-50%);
+
+	/* for hider */
+	display:none;
+}
+
+.not-really
+{
+    background-color:purple;
+    width: 180px;
+    height: 45px;
+    border-radius: 15px;
+    
+}
+
+.extra-money
+{
+    background-color: dodgerblue;
+    width: 180px;
+    height: 45px;
+    border-radius: 15px;
+}
